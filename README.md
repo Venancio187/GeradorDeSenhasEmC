@@ -1,19 +1,23 @@
 Gerador de Senhas em C
 
 Visão Geral
+
 Este projeto é um gerador de senhas aleatórias implementado em linguagem C. 
 Ele permite ao usuário especificar o comprimento da senha, gerando uma senha segura e personalizada no console.
 
 Funcionalidades
+
 Comprimento Personalizável: Defina o tamanho da senha desejada.
 Geração Aleatória: Senhas geradas de forma pseudoaleatória para garantir imprevisibilidade.
 Interface de Console: Interação simples e direta via linha de comando.
 
 Tecnologias Utilizadas
+
 Linguagem: C
 Compilador: DEV C++
 
 Como Compilar e Executar
+
 Para compilar e executar este projeto, siga os passos abaixo:
 1.
 Clone o Repositório:
